@@ -9,4 +9,9 @@ docker: Error response from daemon: Container command not found or does not exis
    % 
 
 ▶ docker run -it realpage/alpine-bash:3.3 bash
-bash-4.3#  
+bash-4.3# 
+
+▶ docker run -it realpage/alpine-bash:3.3 /home/welcome.sh
+Hello, World!
+
+ 
