@@ -14,4 +14,6 @@ bash-4.3#
 ▶ docker run -it realpage/alpine-bash:3.3 /home/welcome.sh
 Hello, World!
 
+▶ docker run realpage/alpine-bash:3.3       
+Hello, World!
  
