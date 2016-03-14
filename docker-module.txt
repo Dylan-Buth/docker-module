@@ -6,4 +6,7 @@ bash-4.3#
 ▶ docker run -it alpine:3.3 bash
 exec: "bash": executable file not found in $PATH
 docker: Error response from daemon: Container command not found or does not exist..
-   %  
+   % 
+
+▶ docker run -it realpage/alpine-bash:3.3 bash
+bash-4.3#  
