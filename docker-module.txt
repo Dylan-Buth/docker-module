@@ -16,4 +16,12 @@ Hello, World!
 
 ▶ docker run realpage/alpine-bash:3.3       
 Hello, World!
+
+▶ docker images
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+realpage/alpine-bash      3.3                 65fb71db6bd2        2 minutes ago       8.241 MB
+<none>                    <none>              b0519d61db04        6 minutes ago       8.241 MB
+<none>                    <none>              b1a2861eb3b7        17 minutes ago      4.798 MB
+alpine                    3.3                 70c557e50ed6        11 days ago         4.798 MB
+dockercloud/hello-world   latest              b05299680b1d        2 weeks ago         17.36 MB
  
